@@ -1,2 +1,3 @@
 # Issues-or-request
-If you have any ''suggestions/issues/request/any other'', feel free to comment  here. 
+
+If you have any /*suggestions/issues/request/any other*/, feel free to leave your comment at [ISSUES](https://github.com/Jackstar1212/Issues-or-request/issues). 
